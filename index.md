@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Xixi's Pages
+## 我是杨希希
 
-You can use the [editor on GitHub](https://github.com/yangzixish/yzx.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
